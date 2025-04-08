@@ -23,16 +23,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 #  O Futuro do Processamento de Linguagem Natural: Tendências e Inovações ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+PodCast de 6 minutos sobre: “O Futuro do Processamento de Linguagem Natural: Tendências e Inovações.”
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativa ChatGPT para geração, roteirização e revisão;
+IA Generativa ElevenLabs para clonagem e sintetização de voz;
+Software Audacity para edição e montagem do podcast.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o ChatGPT para gerar a matéria e montar o roteiro. A narração foi feita com a ElevenLabs, que ajudou a dar uma voz mais natural e expressiva. E pra finalizar a edição do áudio usei o Audacity, garantindo um som limpo e bem ajustado.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Este episódio do podcast aborda as principais tendências e inovações no campo do Processamento de Linguagem Natural, oferecendo uma visão clara e objetiva para quem deseja entender rapidamente o tema.
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
