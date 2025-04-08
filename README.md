@@ -35,6 +35,7 @@ Usei o ChatGPT para gerar a matéria e montar o roteiro. A narração foi feita 
 
 ## 🚀 Resultados
 Este episódio do podcast aborda as principais tendências e inovações no campo do Processamento de Linguagem Natural, oferecendo uma visão clara e objetiva para quem deseja entender rapidamente o tema.
+PodCast - https://drive.google.com/file/d/1nC69k88uMVEY-hw1__B75UiuZUQzhPbn/view?usp=drive_link
 
 ## 💭 Reflexão (Opcional)
 Esse projeto mostrou como as IAs Generativas podem tornar a criação de conteúdo em áudio muito mais fácil e acessível. O mais interessante é que, mesmo sendo tecnologia, o resultado ficou mais natural e humanizado. As vozes soam mais próximas da fala real, e o roteiro ganhou fluidez e emoção, como se tivesse sido feito à mão, com cuidado em cada detalhe. Isso abriu novas possibilidades pra quem quer criar conteúdo com qualidade, sem perder o toque humano.
